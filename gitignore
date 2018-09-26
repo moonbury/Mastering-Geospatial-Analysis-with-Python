@@ -1,2 +1,4 @@
 *.png
 Chapter14/Scripts/cartoenv/
+.ipynb_checkpoints
+

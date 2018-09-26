@@ -1,0 +1,5 @@
+<PAMDataset>
+  <PAMRasterBand band="2">
+    <Description>The Green Band</Description>
+  </PAMRasterBand>
+</PAMDataset>
